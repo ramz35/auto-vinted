@@ -1,19 +1,20 @@
 # Auto-Vinted
 
-Auto-Vinted is a Python tool to automate uploading, reposting, and creating listings on Vinted using the Vinted API.
+Auto-Vinted is a Python tool to automate reposting on Vinted using the (undocumented) Vinted API. Initially it was designed to save me hours of effort by reupload existing items.  I'm not a professional seller but even a private seller with a moderate wardrobe has to spend way too long to reupload items.  This is a feature that Vinted should provide themselves but since they do not I needed to step in or stop being a seller on their platform. I eventually aim to expand it into a full listing creation and management tool, unless Vinted starts offering this themselves.
 
-Initially designed to save you hours of effort by reupload existing items, it is being built to expand into a full listing creation and management tool.
+## Current Features
+- Repost existing items
+- Save your photos
 
-## Features
+## Future Features
+ - Other things priorited based on my own needs as a private Vinted Seller
+ - Other things depending on how I evolve this for end-users or 3rd parties (app, extension, or website makers)
 
-- Repost any existing item
-- Repost items that are older than 1 or more months
-- Create listings from scratch
-- Save your listing details and their photos 
+## Pricing
+Since Vinted's API is not documented this took me a huge amount of time to work out. I'm looking for fair compensation for this effort.  Since end-users are less likely to be visiting github the main interest is from app, extension, or website makers that will charge a monthly subscription fee for their customers.  I've no problem with that, and wish them well, but if this code helps you on that journey and saves you a ton of time then my price is worth it.  If not, then I wish you good luck, and perhaps one day I'll also become a customer of your product/service.
 
-Since Vinted's API is not documented this took me a while to work out. If you are interested in any of the following then send me an email at the address on my Git Hub Bio. .
-- Dev/Techie edition: a one-off purchase for 30 euros. This comes with the code and basic instructions. You can run it or save yourself hours of figuring the API calls and jumpstart your own project. You get 3 months of support in case Vinted changes their API.
--- extra 3 months of support for 5 euros
-- Business edition: reposting items on your behalf. If you are time poor then for 5 euros I will repost up to 10 items for you.
--- For more than 10 items contact me for discounted rates. 
-- Consumer edition: 50 euros. For this I will give you the code and show you how you install and run it. 
+I'm currently updating my license and terms of serice which will be available shortly.  Meanwhile if you are interested then let's start a chat.  Send me an email at the address on my Git Hub Bio (not . 
+
+- Developer edition: a one-off purchase for 100 euros. This comes with Python code and basic instructions. You save yourself hours of figuring the API calls and jumpstart your own project.  The day you will get the code it will be working or your money back.  If Vinted changes their API in the first week (that would be really bad luck but it will happen to someone at some point in some future) then I'll help to try and get it working again or offer a 50% discount.  If you want a stable API then provide services to Professional Vinted sellers where Vinted provides public API documentation.  This price also discourages less serious developers that could misuse the code and encourage Vinted to make life harder for the rest of us. 
+
+- Consumer/Business edition: reposting items on your behalf. If you are time poor then for 5 euros I will repost up to 15 items for you.  For more than 15 items contact me to discount a custom rate.  If you think this is expensive then time yourself reposting 15 items with just a few photos.  If you a) complete the exercise without wanting to give up and b) look forward to doing it again in a couple of weeks then you're right, it is too expensive for you.  And that's ok but I couldn't face that.
